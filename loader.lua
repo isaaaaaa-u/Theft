@@ -8,7 +8,7 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 OrionLib:MakeNotification({
 	Name = "GUI",
-	Content = "Successfully loaded GUI",
+	Content = "DO NOT USE HBE BYPASS (cba taking out rn)",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
